@@ -1,0 +1,5 @@
+{
+  "name": "SysDesign Viz",
+  "description": "An interactive visualization of core system design concepts like latency, throughput, caching, and replication, powered by Gemini for definitions.",
+  "requestFramePermissions": []
+}
